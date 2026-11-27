@@ -1,0 +1,1 @@
+import{w as c,x as r,y as s,E as i,G as h,I as p,J as d}from"./DOGs90up.js";function u(t,f,o){r&&s();var n=t,a,e;c(()=>{a!==(a=f())&&(e&&(p(e),e=null),a&&(e=h(()=>o(n,a))))},i),r&&(n=d)}export{u as c};
